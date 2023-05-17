@@ -80,8 +80,7 @@ Saturday	6114496
 ##########################################################################################
 Reddit word associations: June 2015 presidential edition.
 
-I think this is the most beautiful piece of code I've ever written.
-Use this SQL to ask BigQuery what Reddit - the hivemind - 'the' reddit, thinks about something.
+Use this SQL to ask BigQuery what Reddit, thinks about something.
 Replace 'batman' with any concept:
 
 SELECT a.word, b.word, c, ratio
